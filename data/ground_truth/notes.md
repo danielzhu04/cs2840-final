@@ -1,0 +1,1 @@
+`6xr6` and `6xrg` refers to residues 229-515 of the Abl1b protein kinase. They represent the active and inactive II variants of the kinase core.
