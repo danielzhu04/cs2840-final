@@ -18,3 +18,5 @@ tests/tests_*
 *.venv
 
 test_outputs/
+data/RFdiffusion_output/
+outputs/
