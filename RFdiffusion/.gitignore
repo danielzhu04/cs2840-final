@@ -16,6 +16,7 @@ tests/tim_barrel_scaffold
 tests/tests_*
 
 *.venv
+*.env
 
 test_outputs/
 data/RFdiffusion_output/

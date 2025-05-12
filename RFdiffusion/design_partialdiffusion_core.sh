@@ -12,4 +12,4 @@
     inference.input_pdb=data/ESM_original/esm3_abl1b_complete.pdb \
     'contigmap.contigs=["A1-228/287/A516-1149"]' \
     inference.num_designs=1 \
-    diffuser.partial_T=50 \
+    diffuser.partial_T=50 
