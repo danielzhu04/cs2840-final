@@ -21,3 +21,4 @@ tests/tests_*
 test_outputs/
 data/RFdiffusion_output/
 outputs/
+logs/
