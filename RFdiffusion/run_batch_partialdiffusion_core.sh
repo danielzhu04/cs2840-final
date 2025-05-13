@@ -10,10 +10,6 @@
 #SBATCH --array=0-99                     
 
 # ---------- 1.  Environment ----------
-
-# module purges
-# module load cuda/12.2                    # or your site’s CUDA module
-# source ~/envs/pytorch/bin/activate       # activate the venv/conda env
 source ./SE3nv.venv/bin/activate
 
 # ---------- 2.  Pick the seed ----------
